@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# Environment variables
+.env
+
+# Temporary files
+temp_*.pdf
+
+# IDE
+.vscode/
+.idea/
+
+# Node modules
+Frontend/node_modules/
+Frontend/dist/
+Frontend/build/
+
+# OS
+.DS_Store
